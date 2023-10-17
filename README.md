@@ -1,5 +1,8 @@
 # Aula-02
 Aula 2
-Filme 1
-Filme 2
-Filme 3
+
+Avatar
+
+Avatar 2
+
+The Batman
